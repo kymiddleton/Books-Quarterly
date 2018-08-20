@@ -1,0 +1,53 @@
+h1 {
+    font-family: 'EB+Garamond';
+    font-size: 40px;
+    color: #666666;
+}
+
+h2 {
+    font-family: 'Trirong', serif;
+    font-size: 24px;
+    font-weight:bold;
+    color: #434343;
+}
+
+p   {
+    font-family: 'Trirong', serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color:#434343;
+}
+
+nav {
+    font-family: 'Trirong', serif;
+    font-size: 18px;
+    color:#434343;
+}
+
+li {
+    font-family: 'Trirong', serif;
+    font-size: 14px;
+    color:#434343;
+}
+
+aside h1 {
+    font-size: 20px;
+    color:#d9d9d9;
+    width: 2px;
+    border: 10px solid orange;
+}
+
+a {
+    color:#666666;
+}
+
+img {
+    width: 175px;
+    height: 275px;
+}
+
+main {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px
+}
